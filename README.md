@@ -14,4 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-❣️
+pkg update 
+pkg upgrade 
+pkg install python 
+pkg install python2
+pkg install git 
+pkg install requests
+pkg install machanize
+pkg install bs4
+pkg install rich
+git clone https://github.com/Xidan404/Xidan404.git
+cd Random
+python2 Random.py
